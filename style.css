@@ -6,6 +6,13 @@ body {
     color: gold;
 }
 
+section {
+    border: solid black 1px;
+}
+
+#buttons{
+background-color: black;
+}
 .button {
     background-color: white;
     border: none;
@@ -17,3 +24,15 @@ body {
     margin: 4px 2px;
     cursor: pointer;
 }
+ .text-right {
+    text-align: right;
+}
+
+ .text-left {
+    text-align: left;
+}
+ .text-center {
+    text-align: center;
+}
+
+     
